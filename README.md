@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasadshinde01&label=Profile%20views&color=0e75b6&style=flat" alt="prasadshinde01" /> </p>
 
-- 🔭 I’m currently working on **TrainingTracker Application**
 
 - 🌱 I’m currently learning **Java, MySQL, Spring Boot, Cloud**
 
