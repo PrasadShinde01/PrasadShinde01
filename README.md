@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasadshinde01&label=Profile%20views&color=0e75b6&style=flat" alt="prasadshinde01" /> </p>
 
 
-- 🌱 I’m currently learning **Python, Java, MySQL, Spring Boot, Cloud**
+- 🌱 I’m a Product Engineer, currently learning **Python, Java, MySQL, Spring Boot, Cloud**
 
 - 👨‍💻 My Portfolio [WebApp](https://strong-sprinkles-bdd6ba.netlify.app/)
 
