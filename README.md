@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **prasadshinde474@gmail.com**
 
-- 📄 My [resume](https://drive.google.com/file/d/1_gT6CD26agTsdfckX6qOqYdhAnvsXToV/view?usp=sharing)
+- 📄 My [resume](https://drive.google.com/file/d/14BkXFgeH6UbjodB8-V_JSue62nSXDQLI/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
